@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32861'
     url: http://www.gutenberg.org/2009/agents/32861
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27713#The-Elements-of-Bacteriological-TechniqueA-Laboratory-Guide-for-Medical-Dental-and-Technical-_
 gutenberg_bookshelf: Microbiology
 gutenberg_issued: '2009-01-05'
 gutenberg_type: Text
